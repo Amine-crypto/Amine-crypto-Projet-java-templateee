@@ -1,0 +1,2 @@
+# SchoolWordPressTheme
+School WordPress Theme
